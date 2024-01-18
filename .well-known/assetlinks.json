@@ -5,6 +5,66 @@
         ],
         "target": {
             "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.ventopay",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.dev.ventopay.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.ventopayteam",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.dev.ventopayteam.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.dev",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
             "package_name": "vp.mocca.user.app.dev.debug",
             "sha256_cert_fingerprints": [
                 "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
@@ -17,7 +77,787 @@
         ],
         "target": {
             "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.ventopaypentest",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.dev.ventopaypentest.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.abiomed",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
             "package_name": "vp.mocca.user.app.abiomed.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.accenture",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.accenture.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.aldisued",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.aldisued.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.allianz",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.allianz.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.brose",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.brose.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.cucina",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.cucina.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.delta",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.delta.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.dew",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.dew.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.dussmann",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.dussmann.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.eurest",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.eurest.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.finanz",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.finanz.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.glatt",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.glatt.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.go",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.go.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.iss",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.iss.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.lask",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.lask.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.lufthansa",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.lufthansa.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.lufthansa.beta",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.lufthansa.beta.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.oembg",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.oembg.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.owi",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.owi.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.pace",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.pace.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.plassertheurer",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.plassertheurer.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.ratiopharm",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.ratiopharm.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.regadi",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.regadi.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.roche",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.roche.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.schwarzhirsch",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.schwarzhirsch.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.sodexo",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.sodexo.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.sonova",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.sonova.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.stwd",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.stwd.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.tesla",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.tesla.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.tsmodul",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.tsmodul.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.vemag",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.vemag.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.wuwien",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.wuwien.debug",
             "sha256_cert_fingerprints": [
                 "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
             ]
