@@ -19,6 +19,18 @@
             },
             {
                 "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.ventopayteam",
+                    "24SJ354ETU.com.ventopay.mocca.app.ventopayteam.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_ventopayteam/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_ventopayteam/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
                     "24SJ354ETU.com.ventopay.mocca.app.abiomed",
                     "24SJ354ETU.com.ventopay.mocca.app.abiomed.debug"
                 ],
@@ -26,6 +38,366 @@
                     {
                         "/": "/mobile_app_abiomed/*",
                         "comment": "Matches any URL with a path that starts with /mobile_app_abiomed/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.accenture",
+                    "24SJ354ETU.com.ventopay.mocca.app.accenture.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_accenture/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_accenture/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.aldisued",
+                    "24SJ354ETU.com.ventopay.mocca.app.aldisued.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_aldisued/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_aldisued/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.allianz",
+                    "24SJ354ETU.com.ventopay.mocca.app.allianz.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_allianz/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_allianz/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.brose",
+                    "24SJ354ETU.com.ventopay.mocca.app.brose.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_brose/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_brose/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.cucina",
+                    "24SJ354ETU.com.ventopay.mocca.app.cucina.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_cucina/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_cucina/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.delta",
+                    "24SJ354ETU.com.ventopay.mocca.app.delta.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_delta/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_delta/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.dew",
+                    "24SJ354ETU.com.ventopay.mocca.app.dew.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_dew/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_dew/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.dussmann",
+                    "24SJ354ETU.com.ventopay.mocca.app.dussmann.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_dussmann/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_dussmann/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.eurest",
+                    "24SJ354ETU.com.ventopay.mocca.app.eurest.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_eurest/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_eurest/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.finanz",
+                    "24SJ354ETU.com.ventopay.mocca.app.finanz.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_finanz/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_finanz/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.glatt",
+                    "24SJ354ETU.com.ventopay.mocca.app.glatt.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_glatt/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_glatt/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.go",
+                    "24SJ354ETU.com.ventopay.mocca.app.go.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_go/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_go/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.iss",
+                    "24SJ354ETU.com.ventopay.mocca.app.iss.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_iss/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_iss/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.lufthansa",
+                    "24SJ354ETU.com.ventopay.mocca.app.lufthansa.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_lufthansa/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_lufthansa/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.lufthansa.beta",
+                    "24SJ354ETU.com.ventopay.mocca.app.lufthansa.beta.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_lufthansa_beta/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_lufthansa_beta/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.oembg",
+                    "24SJ354ETU.com.ventopay.mocca.app.oembg.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_oembg/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_oembg/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.owi",
+                    "24SJ354ETU.com.ventopay.mocca.app.owi.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_owi/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_owi/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.pace",
+                    "24SJ354ETU.com.ventopay.mocca.app.pace.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_pace/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_pace/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.plassertheurer",
+                    "24SJ354ETU.com.ventopay.mocca.app.plassertheurer.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_plassertheurer/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_plassertheurer/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.ratiopharm",
+                    "24SJ354ETU.com.ventopay.mocca.app.ratiopharm.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_ratiopharm/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_ratiopharm/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.regadi",
+                    "24SJ354ETU.com.ventopay.mocca.app.regadi.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_regadi/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_regadi/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.roche",
+                    "24SJ354ETU.com.ventopay.mocca.app.roche.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_roche/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_roche/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.schwarzhirsch",
+                    "24SJ354ETU.com.ventopay.mocca.app.schwarzhirsch.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_schwarzhirsch/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_schwarzhirsch/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.sodexo",
+                    "24SJ354ETU.com.ventopay.mocca.app.sodexo.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_sodexo/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_sodexo/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.sonova",
+                    "24SJ354ETU.com.ventopay.mocca.app.sonova.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_sonova/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_sonova/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.stwd",
+                    "24SJ354ETU.com.ventopay.mocca.app.stwd.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_stwd/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_stwd/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.tesla",
+                    "24SJ354ETU.com.ventopay.mocca.app.tesla.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_tesla/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_tesla/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.tsmodul",
+                    "24SJ354ETU.com.ventopay.mocca.app.tsmodul.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_tsmodul/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_tsmodul/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.vemag",
+                    "24SJ354ETU.com.ventopay.mocca.app.vemag.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_vemag/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_vemag/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.wuwien",
+                    "24SJ354ETU.com.ventopay.mocca.app.wuwien.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_wuwien/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_wuwien/."
                     }
                 ]
             }
