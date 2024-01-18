@@ -1,9 +1,26 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "vp.mocca.user.app.dev.debug",
-    "sha256_cert_fingerprints":
-    ["E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"]
-  }
-}]
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.dev.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vp.mocca.user.app.abiomed.debug",
+            "sha256_cert_fingerprints": [
+                "E8:39:AE:F9:B7:7E:A5:96:5E:64:31:43:2F:7A:56:5C:88:2F:F0:1C:D8:4B:50:CD:36:D4:5D:14:CF:9C:8A:E7"
+            ]
+        }
+    }
+]
