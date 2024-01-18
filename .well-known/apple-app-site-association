@@ -1,20 +1,34 @@
 {
     "applinks": {
         "details": [
-             {
-                "appIDs": [ "24SJ354ETU.com.ventopay.mocca.app.ventopay", "24SJ354ETU.com.ventopay.mocca.app.ventopay.debug", "24SJ354ETU.com.ventopay.mocca.app.dev", "24SJ354ETU.com.ventopay.mocca.app.dev.debug" , "24SJ354ETU.com.ventopay.mocca.app.pentest", "24SJ354ETU.com.ventopay.mocca.app.pentest.debug" ], 
-                "components": [{ 
-                    "/": "/mobile_app/*", 
-                    "comment": "Matches any URL with a path that starts with /mobile_app/."
-                }]
-             },
-			 {
-                "appIDs": [ "24SJ354ETU.com.ventopay.mocca.app.abiomed", "24SJ354ETU.com.ventopay.mocca.app.abiomed.debug" ], 
-                "components": [{ 
-                    "/": "/mobile_app_abiomed/*", 
-                    "comment": "Matches any URL with a path that starts with /mobile_app_abiomed/."
-                }]
-             }
-         ]
-     }
-  }
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.ventopay",
+                    "24SJ354ETU.com.ventopay.mocca.app.ventopay.debug",
+                    "24SJ354ETU.com.ventopay.mocca.app.dev",
+                    "24SJ354ETU.com.ventopay.mocca.app.dev.debug",
+                    "24SJ354ETU.com.ventopay.mocca.app.pentest",
+                    "24SJ354ETU.com.ventopay.mocca.app.pentest.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app/."
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24SJ354ETU.com.ventopay.mocca.app.abiomed",
+                    "24SJ354ETU.com.ventopay.mocca.app.abiomed.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/mobile_app_abiomed/*",
+                        "comment": "Matches any URL with a path that starts with /mobile_app_abiomed/."
+                    }
+                ]
+            }
+        ]
+    }
+}
