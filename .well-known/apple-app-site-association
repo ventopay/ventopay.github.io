@@ -402,5 +402,17 @@
                 ]
             }
         ]
+    },
+    "webcredentials": {
+        "apps": [
+            "24SJ354ETU.com.ventopay.mocca.app.ventopay",
+            "24SJ354ETU.com.ventopay.mocca.app.ventopay.debug",
+            "24SJ354ETU.com.ventopay.mocca.app.dev",
+            "24SJ354ETU.com.ventopay.mocca.app.dev.debug",
+            "24SJ354ETU.com.ventopay.mocca.app.pentest",
+            "24SJ354ETU.com.ventopay.mocca.app.pentest.debug",
+            "24SJ354ETU.com.ventopay.mocca.app.adidas",
+            "24SJ354ETU.com.ventopay.mocca.app.adidas.debug"
+        ]
     }
 }
